@@ -1,0 +1,2 @@
+## Driving Licenses Managment Project (DVLD) Using C# and SQL Server
+#### The system was designed to incorporate a range of management functionalities including user, people, application types, tests types, and license types, offering a holistic solution for departmental needs. It was specifically customized to feature vision, written, and practical tests, optimizing license procedures and improving overall user satisfaction.
